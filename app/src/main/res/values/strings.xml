@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daru</string>
+
+    <string name="ctn1">chancon</string>
+    <string name="ctn2">kiw</string>
+    <string name="ctn3">Age:19</string>
+    <string name="ctn4">Computer</string>
+    <string name="ctn5">Software</string>
+</resources>
